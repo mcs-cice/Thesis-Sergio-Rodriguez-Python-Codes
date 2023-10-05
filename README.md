@@ -1,4 +1,4 @@
-Repository of Pytho codes used for the analyses created in the developmnet of my Thesis.
+Repository of Python codes used for the analyses created in the developmnet of my Thesis:
 
 Enhancing Lithium Diffusion in Solid Polymer Electrolyte Batteries
 throught Molecular Dynamic Simulations
